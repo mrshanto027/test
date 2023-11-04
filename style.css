@@ -1,0 +1,44 @@
+.div1{
+
+}
+
+.div2{
+    width: 1400px;
+    height: 50px;
+    background: #000000;
+    text-align: ;
+}
+
+    .css2 a {
+        width: 100px;
+        border-radius: 30px;
+        border: 1px solid #ffffff;
+        display: inline-block;
+        color: #ffffff;
+        text-decoration: none;
+        line-height: 42.5px;
+        margin: 3px;
+        transition: .4s;
+        font-size: 16px;
+        font-weight: 600;
+        text-align: center;
+    }    
+    .css2 a:hover {
+        background: #f19100;
+        border-color: #f19100;
+    }
+    .home_btn {
+        text-align: right;
+    }
+    .css2 img {
+        width: 46px;
+        height: 46px;
+        border-radius: 30px;
+        margin: 2px;
+        text-align: left;
+    }
+.div3 {
+    width: 1400px;
+    height: auto;
+    background-color: #1900ff;
+}
